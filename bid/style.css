@@ -1,0 +1,13 @@
+.title{
+    background-color: rgb(173, 24, 24);
+    color: white;
+}
+
+input:focus {
+    outline:none !important;
+    }
+
+/*input{
+    border-radius: 1px;
+    width: 250px;
+}*/

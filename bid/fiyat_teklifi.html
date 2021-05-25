@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <link href="style.css" type="text/css" rel="stylesheet"/>
+</head>
+</head>
+<body>
+
+   <form enctype="multipart/form-data">
+    <table class="table table-bordered" id="tbl_posts">
+      <thead>
+        <tr>
+          <th class="title">No</th>
+          <th class="title">Hizmet Adı</th>
+          <th class="title">Adet</th>
+          <th class="title">Birim Fiyat</th>
+          <th class="title">Toplam</th>
+        </tr>
+      </thead>
+      <tbody id="tbl_posts_body">
+        <tr id="rec-1">
+          <td><span class="sn">1</span>.</td>
+          <td><input type="text" id="service" name="service"></td>
+          <td><input type="text" id="count" name="count"></td>
+          <td><input type="text" id="price" name="price"></td>
+          <td id="total"></td>
+          <td><a class="btn btn-xs delete-record" data-id="1"><i class="glyphicon glyphicon-trash"></i></a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div> 
+</form>
+
+  <div style="display:none;">
+    <table id="sample_table">
+      <tr id="">
+       <td><span class="sn"></span>.</td>
+       <td><input type="text" id="service" name="service"></td>
+       <td><input type="text" id="count" name="count"></td>
+       <td><input type="text" id="price" name="price"></td>
+       <td></td>
+       <td><a class="btn btn-xs delete-record" data-id="0"><i class="glyphicon glyphicon-trash"></i></a></td>
+     </tr>
+   </table>
+ </div>
+
+ <div class="well clearfix">
+  <a class="btn btn-primary pull-right add-calculated " data-calculated="0"><i class="glyphicon glyphicon-plus"></i>Topla</a>
+  <a class="btn btn-primary pull-right add-record" data-added="0"><i class="glyphicon glyphicon-plus"></i>Ekle</a>
+</div>
+
+</body>
+<script src="main.js"></script>
+</html>
