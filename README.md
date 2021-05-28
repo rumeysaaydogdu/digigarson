@@ -29,3 +29,9 @@ These are my internship assignments at Matrix Teknoloji
 
 # some useful links
 
+https://www.tutorialrepublic.com/faq/how-to-add-remove-table-rows-dynamically-using-jquery.php
+
+https://codepen.io/serhanozcan/pen/KQoOqV
+
+https://www.geeksforgeeks.org/how-to-dynamically-add-remove-table-rows-using-jquery/
+
