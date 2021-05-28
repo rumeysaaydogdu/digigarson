@@ -16,3 +16,11 @@ These are my internship assignments at Matrix Teknoloji
 ![three](https://user-images.githubusercontent.com/71151015/119464267-3ab3f080-bd4b-11eb-897b-eef3c5008111.PNG)
 
 # bid table
+
+![one](https://user-images.githubusercontent.com/71151015/119950007-1b170500-bfa3-11eb-909b-6ec021fa59e8.PNG)
+
+![two](https://user-images.githubusercontent.com/71151015/119950041-25390380-bfa3-11eb-9bd0-6046a714103d.PNG)
+
+![three](https://user-images.githubusercontent.com/71151015/119950052-2702c700-bfa3-11eb-8308-18705b6c4482.PNG)
+
+
