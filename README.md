@@ -27,3 +27,5 @@ These are my internship assignments at Matrix Teknoloji
 
 ![twoo](https://user-images.githubusercontent.com/71151015/119951021-2d457300-bfa4-11eb-9f41-ffe50082b210.PNG)
 
+# some useful links
+
