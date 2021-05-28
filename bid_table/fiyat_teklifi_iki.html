@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>jQuery Add / Remove Table Rows Dynamically</title>
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <link href="style.css" type="text/css" rel="stylesheet"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/css/bootstrap.min.css"/>
+</head>
+<body>
+<div class="container">
+    <form enctype="multipart/form-data">
+      <table class="table table-bordered  table-width" id="tbl_posts">
+        <thead>
+          <tr>
+            <th class="title">No</th>
+            <th class="title">Hizmet Adı</th>
+            <th class="title">Adet</th>
+            <th class="title">Birim Fiyat</th>
+            <th class="title">Para Birimi</th>
+            <th class="title">Ekle</th>
+          </tr>
+        </thead>
+        <tbody id="tbl_posts_body">
+          <tr id="rec-1">
+            <td><input type="text" id="no" name="no"></td>
+            <td><input type="text" id="service" name="service"></td>
+            <td><input type="number" id="count" name="count"></td>
+            <td><input type="number" id="price" name="price"></td>
+            <td>
+            <select name="money" id="money">
+              <option value="Türk Lirası">Türk Lirası</option>
+              <option value="Dolar">Dolar</option>
+            </select>
+            </td>
+            <td><input type="button" class="add-row" value="Tabloya Ekle"></td>
+            </tr>
+        </tbody>
+      </table>
+    </form>
+
+    <form>
+      <table class="table table-bordered " id="tbl_posts">
+        <thead>
+          <tr>
+            <th class="title">Dolar Kuru</th>
+          </tr>
+        </thead>
+        <tbody id="tbl_posts_body">
+          <tr id="rec-1">
+            <td><input type="number" id="dollar" name="dollar"></td>
+            </tr>
+        </tbody>
+      </table>
+    </form>
+
+    <table class="table  table-width">
+        <thead>
+            <tr>
+                <th class="title">Seçim</th>
+                <th class="title">No</th>
+                <th class="title">Hizmet Adı</th>
+                <th class="title">Adet</th>
+                <th class="title">Birim Fiyat</th>
+                <th class="title">Para Birimi</th>
+                <th class="title">Toplam</th>
+            </tr>
+        </thead>
+        <tbody id="adding-table">
+        </tbody>
+    </table>
+    <button type="button" class="delete-row">Seçili Satırı Sil</button>
+    <button type="button" class="calculate">Hesapla</button>
+  </div>
+<script src="main.js"></script>
+</body> 
+</html>
