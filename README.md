@@ -15,7 +15,7 @@ These are my internship assignments at Matrix Teknoloji
 
 ![three](https://user-images.githubusercontent.com/71151015/119464267-3ab3f080-bd4b-11eb-897b-eef3c5008111.PNG)
 
-# bid table
+# sales rep
 
 ![one](https://user-images.githubusercontent.com/71151015/119950007-1b170500-bfa3-11eb-909b-6ec021fa59e8.PNG)
 
@@ -23,4 +23,7 @@ These are my internship assignments at Matrix Teknoloji
 
 ![three](https://user-images.githubusercontent.com/71151015/119950052-2702c700-bfa3-11eb-8308-18705b6c4482.PNG)
 
+# bid table
+
+![twoo](https://user-images.githubusercontent.com/71151015/119951021-2d457300-bfa4-11eb-9f41-ffe50082b210.PNG)
 
