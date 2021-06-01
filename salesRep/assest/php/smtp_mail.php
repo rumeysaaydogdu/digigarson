@@ -38,7 +38,7 @@ $mail = new PHPMailer(true);
         $mail->SMTPAuth   = true;
         $mail->Username   = 'mail here .com';
         $mail->Password   = 'password here';
-        $mail->SMTPSecure = PHPMailer:: xxxxx; // xxxx yerine şifreleme türü ne olduğu gelecek
+        $mail-> //S*TP*ecu*e = xxxxMailer:: xxxxx; // xxxx yerine şifreleme türü ne olduğu gelecek
         $mail->Port       = 465;
     
         $mail->setFrom('_mainaccount@weborjin.com', 'Web Orjin');
