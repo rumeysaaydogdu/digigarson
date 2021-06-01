@@ -34,15 +34,15 @@ $mail = new PHPMailer(true);
     try {
         $mail->SMTPDebug = 2;
         $mail->isSMTP();
-        $mail->Host       = 'xxxxhosting.com';
+        $mail->Host       = 'mail here hosting.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'xxxxx.com';
-        $mail->Password   = 'xxxxx';
-        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+        $mail->Username   = 'mail here .com';
+        $mail->Password   = 'password here';
+        $mail->SMTPSecure = PHPMailer:: xxxxx; // xxxx yerine şifreleme türü ne olduğu gelecek
         $mail->Port       = 465;
     
-        $mail->setFrom('xxxx.com', 'Web Orjin');
-        $mail->addAddress('xxx.com');
+        $mail->setFrom('_mainaccount@weborjin.com', 'Web Orjin');
+        $mail->addAddress('ozmert2434@gmail.com');
     
         $mail->isHTML(true);
         $mail->Subject = "Test Subject";
