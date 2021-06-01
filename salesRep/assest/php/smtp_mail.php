@@ -34,15 +34,15 @@ $mail = new PHPMailer(true);
     try {
         $mail->SMTPDebug = 2;
         $mail->isSMTP();
-        $mail->Host       = 'fr-street.guzelhosting.com';
+        $mail->Host       = 'xxxxhosting.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = '_mainaccount@weborjin.com';
-        $mail->Password   = 'Bt+pQfEeW5Se49W';
+        $mail->Username   = 'xxxxx.com';
+        $mail->Password   = 'xxxxx';
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
         $mail->Port       = 465;
     
-        $mail->setFrom('_mainaccount@weborjin.com', 'Web Orjin');
-        $mail->addAddress('ozmert2434@gmail.com');
+        $mail->setFrom('xxxx.com', 'Web Orjin');
+        $mail->addAddress('xxx.com');
     
         $mail->isHTML(true);
         $mail->Subject = "Test Subject";
