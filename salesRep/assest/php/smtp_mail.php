@@ -2,11 +2,11 @@
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
-// use PHPMailer\PHPMailer\S*TP;
+use PHPMailer\PHPMailer\SMTP;
 
 require 'PHPMailer/PHPMailer.php';
 require 'PHPMailer/Exception.php';
-//require 'PHPMailer/SM*P.php';
+require 'PHPMailer/SMTP.php';
 class messages{
     const
     SUCCESS = "Mail Gönderildi.",
@@ -32,17 +32,17 @@ $autho_phone = $_POST["autho_phone"];
 $checkbox = $_POST["checkbox"];
 $mail = new PHPMailer(true);
     try {
-        $mail-> //*MTPDebug = 2;
-        $mail-> //isSMT*();
-        $mail->Host       = 'mail here hosting.com';
-        $mail-> //SM*PAuth   = true;
-        $mail->Username   = 'mail here .com';
-        $mail->Password   = 'password here';
-        $mail-> //S*TP*ecu*e = xxxxMailer:: xxxxx; // xxxx yerine şifreleme türü ne olduğu gelecek
+        $mail->SMTPDebug = 2;
+        $mail->isSMTP();
+        $mail->Host       = 'fr-street.guzelhosting.com';
+        $mail->SMTPAuth   = true;
+        $mail->Username   = '_mainaccount@weborjin.com';
+        $mail->Password   = 'sifre here';
+        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
         $mail->Port       = 465;
     
-        $mail->setFrom('mail here.com', 'Web Orjin');
-        $mail->addAddress('mail here.com');
+        $mail->setFrom('_mainaccount@weborjin.com', 'Web Orjin');
+        $mail->addAddress('xxx@gmail.com');
     
         $mail->isHTML(true);
         $mail->Subject = "Test Subject";
