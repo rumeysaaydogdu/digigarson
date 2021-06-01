@@ -56,29 +56,28 @@
                 </div>
 
                 <div class="card-body">
-                    <form method="POST">
-
-
+                    <div class="alert">
+                        
+                    </div>
+                    <form id="sales_rep">
                         <div class="form-row">
                             <div class="value">
                                 <div class="input-group">
-                                    <input class="input--style-5 input-width" type="text" name="first_name" placeholder="Satış Temcilcisi Adı Soyadı">
+                                    <input class="input--style-5 input-width" type="text"  name="first_name" placeholder="Satış Temcilcisi Adı Soyadı" required>
                                 </div>
                             </div>
                         </div>
                         <div class="form-row">
                             <div class="value">
                                 <div class="input-group">
-                                    <input class="input--style-5 input-width" type="text" name="company_name" placeholder="Firma Ünvanı">
+                                    <input class="input--style-5 input-width" type="text" name="company_name" placeholder="Firma Ünvanı" required>
                                 </div>
                             </div>
                         </div>
                         <div class="form-row">
                             <div class="value">
                                 <div class="input-group">
-                                    <form>
-                                        <textarea  class="address" placeholder="Firma Adresi"></textarea>
-                                    </form>
+                                        <textarea  class="address" name="address" placeholder="Firma Adresi" required></textarea>
                                     <!-- <input class="input--style-5 input-width" type="text" name="company_address" placeholder="Firma Adresi"> -->
                                 </div>
                             </div>
@@ -86,98 +85,78 @@
                         <div class="form-row">
                             <div class="value">
                                 <div class="input-group">
-                                    <input class="input--style-5 input-width" type="text" name="tax" placeholder="Vergi Dairesi">
+                                    <input class="input--style-5 input-width" type="text" name="tax" placeholder="Vergi Dairesi" required>
                                 </div>
                             </div>
                         </div>
                         <div class="form-row">
                             <div class="value">
                                 <div class="input-group">
-                                    <input class="input--style-5 input-width" type="text" name="tax_no" placeholder="Vergi No">
+                                    <input class="input--style-5 input-width" type="text" name="tax_no" placeholder="Vergi No" required>
                                 </div>
                             </div>
                         </div>
                         <div class="form-row">
                             <div class="value">
                                 <div class="input-group">
-                                    <input class="input--style-5 input-width" type="text" name="signboard_name" placeholder="Tabela İsmi">
+                                    <input class="input--style-5 input-width" type="text" name="signboard_name" placeholder="Tabela İsmi" required>
                                 </div>
                             </div>
                         </div>
                         <div class="form-row">
                             <div class="value">
                                 <div class="input-group">
-                                    <input class="input--style-5 input-width" type="text" name="phone" placeholder="Telefon Numarası">
+                                    <input class="input--style-5 input-width" type="text" name="phone" placeholder="Telefon Numarası" required>
                                 </div>
                             </div>
                         </div>
                         <div class="form-row">
                             <div class="value">
                                 <div class="input-group">
-                                    <input class="input--style-5 input-width" type="text" name="autho_name" placeholder="Yetkili Adı Soyadı">
+                                    <input class="input--style-5 input-width" type="text" name="autho_name" placeholder="Yetkili Adı Soyadı" required>
                                 </div>
                             </div>
                         </div>
                         <div class="form-row">
                             <div class="value">
                                 <div class="input-group">
-                                    <input class="input--style-5 input-width" type="text" name="autho_phone" placeholder="Yetkili Telefon Numarası">
+                                    <input class="input--style-5 input-width" type="text" name="autho_phone" placeholder="Yetkili Telefon Numarası" required>
                                 </div>
                             </div>
                         </div>
-
                         <div class="form-row m-b-55 cerceve"> <!-- card text-cente  -->
                             <div class="value">
                                 <div class="row row-space">
                                     <label class="radio-container m-r-55">Sözleşme İmzalandı
-                                        <input type="checkbox" name="exist">
+                                        <input type="checkbox" name="signed" required>
                                         <span class="checkmark"></span>
                                     </label>
                                 </div>
                             </div>
                         </div>
-
-                        <div class="form-row m-b-55 cerceve"> <!-- card text-cente  -->
-                            <div class="value">
-                                <div class="row row-space">
-                                    <label class="radio-container m-r-55">Sözleşme İmzalanmadı
-                                        <input type="checkbox" name="exist">
-                                        <span class="checkmark"></span>
-                                    </label>
-                                </div>
-                            </div>
-                        </div>
-
-                        <h3 id="table">Masa</h3>
-
-                        <form action="" id="form" class="">
+ 
+                            <h3 id="table">Masa</h3>
                             <div id="form-exams-list">
                               <div class="form-group row">
                                 <div class="col-md-3 form-control select">
-                                    <select class="select-oval select-width"  name="subject">
-                                        <option disabled="disabled" selected="selected">Bölüm</option>
-                                        <option>Bölüm 1</option>
-                                        <option>Bölüm 2</option>
-                                        <option>Bölüm 3</option>
+                                    <select class="select-oval select-width" style="width: auto !important;"  name="subject" id="section" required>
+                
                                     </select>
                                 </div>
 
                                 <div class="col-md-3 max-min select">
-                                    <input class="select-oval select-width" type="number" name="max" placeholder="Max">
+                                    <input class="select-oval select-width" type="number" name="min" placeholder="Min" required>
                                 </div>
 
                                 <div class="col-md-3 max-min select">
-                                    <input class="select-oval select-width" type="number" name="max" placeholder="Min">  <!-- calss ını input--style-5 yaparsan stil gelir eski --> 
+                                    <input class="select-oval select-width" type="number" name="max" placeholder="Max" required>  <!-- calss ını input--style-5 yaparsan stil gelir eski --> 
                                 </div>
 
                               </div>
                             </div>
                             <div id="btn-auto btn-add">
-                                <button class="input-add add-del" type="submit">Ekle</button>  <!-- btn btn--radius-2 btn--black -->
+                                <button class="input-add add-del">Ekle</button>  <!-- btn btn--radius-2 btn--black -->
                             </div>
-                        </form>
-
-                    
                         <!-- <div class="form-row m-b-55"> --> <!-- class="form-row p-t-20" -->
                          <!--   <div class="p-t-15">
                                 <label class="radio-container m-r-55">Görüşme Olumsuz
@@ -202,10 +181,13 @@
     <script src="./assest/js/vendor/select2/select2.min.js"></script>
     <script src="./assest/js/vendor/datepicker/moment.min.js"></script>
     <script src="./assest/js/vendor/datepicker/daterangepicker.js"></script>
-
+    <!--
+        Add to after
+    -->
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <!-- Main JS-->
-    <script src="./assest/js/global.js"></script>
-
+            <script src="./assest/js/global.js"></script>
+            <script src="./assest/js/index.js"></script>
 </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
 
 </html>
