@@ -2,11 +2,11 @@
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
-use PHPMailer\PHPMailer\SMTP;
+// use PHPMailer\PHPMailer\S*TP;
 
 require 'PHPMailer/PHPMailer.php';
 require 'PHPMailer/Exception.php';
-require 'PHPMailer/SMTP.php';
+//require 'PHPMailer/SM*P.php';
 class messages{
     const
     SUCCESS = "Mail Gönderildi.",
@@ -32,17 +32,17 @@ $autho_phone = $_POST["autho_phone"];
 $checkbox = $_POST["checkbox"];
 $mail = new PHPMailer(true);
     try {
-        $mail->SMTPDebug = 2;
-        $mail->isSMTP();
+        $mail-> //*MTPDebug = 2;
+        $mail-> //isSMT*();
         $mail->Host       = 'mail here hosting.com';
-        $mail->SMTPAuth   = true;
+        $mail-> //SM*PAuth   = true;
         $mail->Username   = 'mail here .com';
         $mail->Password   = 'password here';
         $mail-> //S*TP*ecu*e = xxxxMailer:: xxxxx; // xxxx yerine şifreleme türü ne olduğu gelecek
         $mail->Port       = 465;
     
-        $mail->setFrom('_mainaccount@weborjin.com', 'Web Orjin');
-        $mail->addAddress('ozmert2434@gmail.com');
+        $mail->setFrom('mail here.com', 'Web Orjin');
+        $mail->addAddress('mail here.com');
     
         $mail->isHTML(true);
         $mail->Subject = "Test Subject";
