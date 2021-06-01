@@ -35,3 +35,9 @@ https://codepen.io/serhanozcan/pen/KQoOqV
 
 https://www.geeksforgeeks.org/how-to-dynamically-add-remove-table-rows-using-jquery/
 
+# service tabel
+
+![one](https://user-images.githubusercontent.com/71151015/120332760-b851a080-c2f7-11eb-88b3-f677568a413b.PNG)
+
+![two](https://user-images.githubusercontent.com/71151015/120332808-c3a4cc00-c2f7-11eb-9088-192141609afe.PNG)
+
