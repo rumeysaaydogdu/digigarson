@@ -50,5 +50,3 @@ https://www.geeksforgeeks.org/how-to-dynamically-add-remove-table-rows-using-jqu
 ![4](https://user-images.githubusercontent.com/71151015/132489906-90309a71-1d1f-4b76-b3aa-a52e81dc6faa.PNG)
 
 ![3](https://user-images.githubusercontent.com/71151015/132489920-ada6346b-6eda-463d-8140-0cc25ed2aa7d.PNG) 
-
-f
