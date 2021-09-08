@@ -1,0 +1,119 @@
+[16-Aug-2021 10:31:19 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 10:31:19 Europe/Istanbul] PHP Notice:  Undefined index: user in /home/dgsite/public_html/admin/backend/functions/used.php on line 23
+[16-Aug-2021 10:31:23 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 10:31:23 Europe/Istanbul] PHP Notice:  Undefined index: user in /home/dgsite/public_html/admin/backend/functions/used.php on line 23
+[16-Aug-2021 10:31:23 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 10:31:23 Europe/Istanbul] PHP Notice:  Undefined index: user in /home/dgsite/public_html/admin/backend/functions/used.php on line 23
+[16-Aug-2021 10:31:24 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 10:31:24 Europe/Istanbul] PHP Notice:  Undefined index: user in /home/dgsite/public_html/admin/backend/functions/used.php on line 23
+[16-Aug-2021 10:31:24 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 10:31:24 Europe/Istanbul] PHP Notice:  Undefined index: user in /home/dgsite/public_html/admin/backend/functions/used.php on line 23
+[16-Aug-2021 10:31:35 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 10:31:35 Europe/Istanbul] PHP Notice:  Undefined index: user in /home/dgsite/public_html/admin/backend/functions/used.php on line 23
+[16-Aug-2021 10:31:35 Europe/Istanbul] PHP Notice:  Undefined offset: 4 in /home/dgsite/public_html/admin/backend/operations.php on line 87
+[16-Aug-2021 10:31:47 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 10:33:40 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 10:33:40 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 10:33:51 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 10:33:51 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 10:34:25 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 10:34:25 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 10:34:40 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 10:34:40 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 10:35:09 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 10:35:27 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:10:36 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:10:36 Europe/Istanbul] PHP Notice:  Undefined index: user in /home/dgsite/public_html/admin/backend/functions/used.php on line 23
+[16-Aug-2021 11:10:36 Europe/Istanbul] PHP Notice:  Undefined offset: 4 in /home/dgsite/public_html/admin/backend/operations.php on line 87
+[16-Aug-2021 11:10:50 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:11:02 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:11:02 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:13:10 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:13:15 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:13:15 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:16:48 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:17:12 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:17:15 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:17:21 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:20:32 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:20:33 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:20:51 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:20:51 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:20:51 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:20:52 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:20:52 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:20:53 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:20:57 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:20:57 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:20:58 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:20:58 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:20:58 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:20:58 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:20:59 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:21:00 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:21:00 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:21:00 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:46:34 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:46:34 Europe/Istanbul] PHP Notice:  Undefined index: user in /home/dgsite/public_html/admin/backend/functions/used.php on line 23
+[16-Aug-2021 11:46:34 Europe/Istanbul] PHP Notice:  Undefined offset: 4 in /home/dgsite/public_html/admin/backend/operations.php on line 87
+[16-Aug-2021 11:46:44 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:46:51 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:46:53 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:49:03 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:51:15 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:51:15 Europe/Istanbul] PHP Notice:  Undefined index: user in /home/dgsite/public_html/admin/backend/functions/used.php on line 23
+[16-Aug-2021 11:51:15 Europe/Istanbul] PHP Notice:  Undefined offset: 4 in /home/dgsite/public_html/admin/backend/operations.php on line 87
+[16-Aug-2021 11:51:46 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:51:48 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 11:51:51 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 12:02:55 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 12:06:40 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 12:42:06 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 12:47:13 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 12:47:16 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 12:56:32 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 12:56:37 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 12:56:45 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 12:56:47 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 13:05:40 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 13:05:46 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 13:08:51 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 13:08:55 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 13:10:16 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 13:10:17 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 13:10:20 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 13:10:22 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 13:12:00 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 13:12:02 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 14:57:42 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 14:57:42 Europe/Istanbul] PHP Notice:  Undefined index: user in /home/dgsite/public_html/admin/backend/functions/used.php on line 23
+[16-Aug-2021 14:57:42 Europe/Istanbul] PHP Notice:  Undefined offset: 4 in /home/dgsite/public_html/admin/backend/operations.php on line 95
+[16-Aug-2021 14:57:55 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 14:57:56 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 14:58:04 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 14:58:08 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:01:31 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:07:43 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:07:51 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:07:55 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:11:41 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:11:44 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:18:54 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:20:00 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:21:29 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:30:51 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:30:54 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:33:24 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:36:04 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:36:31 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:37:41 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:37:53 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:37:55 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:39:06 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:41:57 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:42:20 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:43:00 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:43:23 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:43:35 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:46:23 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3
+[16-Aug-2021 15:46:43 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dgsite/public_html/admin/backend/functions/used.php on line 3

@@ -1,0 +1,7 @@
+[16-Aug-2021 10:43:00 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dgsite/public_html/forms/PHPMailerAutoload.php on line 45
+[16-Aug-2021 10:48:32 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dgsite/public_html/forms/PHPMailerAutoload.php on line 45
+[16-Aug-2021 10:53:36 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dgsite/public_html/forms/PHPMailerAutoload.php on line 45
+[16-Aug-2021 11:00:24 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dgsite/public_html/forms/PHPMailerAutoload.php on line 45
+[16-Aug-2021 11:06:02 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dgsite/public_html/forms/PHPMailerAutoload.php on line 45
+[16-Aug-2021 11:10:57 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dgsite/public_html/forms/PHPMailerAutoload.php on line 45
+[16-Aug-2021 11:44:51 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dgsite/public_html/forms/PHPMailerAutoload.php on line 45

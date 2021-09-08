@@ -1,0 +1,2 @@
+<meta content="Digigarson Hızlı Ve Zeki" name="description">
+<meta content="YENİ NESİL ADİSYON DİGİGARSON, DigiGarson, Yeni Nesil, Yeni Nesil Adisyon, Adisyon, menü cebinde, menü, uygulama indirmek gerekmez, akıllı telefon, masa, plaj, oda,  kolayca sipariş, Self Servis " name="keywords">

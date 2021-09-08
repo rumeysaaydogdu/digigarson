@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteRule ^home index.php?sayfa=home-home [L,NC]
+RewriteRule ^hakkimizda-bizKimiz index.php?sayfa=hakkimizda-hakkimizda [L,NC]
+RewriteRule ^hakkimizda-isEtigi index.php?sayfa=hakkimizda-isEtigi [L,NC]
+RewriteRule ^hakkimizda-kalitePolitika index.php?sayfa=hakkimizda-kalitePolitika [L,NC]
+RewriteRule ^hakkimizda-musteriIliskileri index.php?sayfa=hakkimizda-musteriIliskileri [L,NC]
+RewriteRule ^galeri index.php?sayfa=galeri-galeri [L,NC]
+RewriteRule ^yonetimsistemleri-yonetimsistemleri index.php?sayfa=yonetimsistemleri-yonetimsistemleri [L,NC]
+RewriteRule ^iletisim-iletisim index.php?sayfa=iletisim-iletisim [L,NC]
+RewriteRule ^iletisim-bayiBasvuru index.php?sayfa=iletisim-bayiBasvuru [L,NC]
+RewriteRule ^iletisim-restoranBasvuru index.php?sayfa=iletisim-restoranBasvuru [L,NC]
