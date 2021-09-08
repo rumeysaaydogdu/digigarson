@@ -43,7 +43,7 @@ https://www.geeksforgeeks.org/how-to-dynamically-add-remove-table-rows-using-jqu
 
 # digigarson.com
 
-template address:  dgsite.cf
+temporary address:  dgsite.cf
 
 ![1](https://user-images.githubusercontent.com/71151015/132489860-be4cf82e-6b87-4122-b6d8-10dc01cb69ba.PNG)
 
